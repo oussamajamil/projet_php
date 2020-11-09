@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+#id
+{
+    width:120px ;
+}
+
+button
+{
+    width: 75px;
+}
+.btn
+{
+    margin-left: 250px;
+}
+table
+{
+    margin-left: 170px;
+    margin-top: 20px;
+    width:600px;
+    color: white;
+}
